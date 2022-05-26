@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Day5_JPAOneToMany-Bidirectional</name>
+	<name>Day5_JPAMany-To-OneBidirectional</name>
 	<comment></comment>
 	<projects>
 	</projects>
